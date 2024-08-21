@@ -1,4 +1,4 @@
-# pmi - Protected Mode Interface for FN-DOS.
+# g32 - Gramado 32bit
 
 This repository has the source code for:
 
@@ -8,7 +8,7 @@ This repository has the source code for:
 > * Applications
 > * Commands
 
-## pmi is based on Gramado 32bit.
+## Gramado 32bit.
 
   Gramado 32bit
 
